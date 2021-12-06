@@ -1,0 +1,27 @@
+install () {
+	pyton3 -m venv env/
+	source env/Scripts/activate
+	pip install -r requirements.txt
+}
+
+test () {
+	source env/Scripts/activate
+	py test.py
+}
+
+if [ "$1" == "" ]
+then
+	echo "ERROR No input"
+
+elif [ $1 == "install" ]
+then
+	install
+
+elif [ $1 == "test" ]
+then
+	test
+
+else
+	source env/Scripts/activate
+	pyton3 main.py $1
+fi

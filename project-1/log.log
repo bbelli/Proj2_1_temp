@@ -1,0 +1,10 @@
+2021-12-05 14:36:39.993782: [WARNING] No license found for repository 'cloudinary_npm'
+2021-12-05 14:36:39.993782: [TRACE  ] 'cloudinary_npm' repository is downloaded
+2021-12-05 14:36:44.631610: [TRACE  ] 'express' repository is downloaded
+2021-12-05 14:36:45.886614: [TRACE  ] 'nodist' repository is downloaded
+2021-12-05 14:36:53.901380: [WARNING] No dependencies found for repository 'lodash'
+2021-12-05 14:36:54.000562: [TRACE  ] 'lodash' repository is downloaded
+2021-12-05 14:37:00.270277: [TRACE  ] 'browserify' repository is downloaded
+2021-12-05 14:37:00.271268: [TRACE  ] Repository list is created, contains repositories: ['cloudinary_npm', 'express', 'nodist', 'lodash', 'browserify', ]
+2021-12-05 14:37:00.271268: [TRACE  ] Metrics are created, contains metrics: ['RAMP_UP_SCORE', 'CORRECTNESS_SCORE', 'BUS_FACTOR_SCORE', 'RESPONSIVE_MAINTAINER_SCORE', 'LICENSE_SCORE', 'DEPENDENCY_SCORE', ]
+2021-12-05 14:37:00.271268: [TRACE  ] Normalized scores for metric 'RAMP_UP_SCORE' are: ['cloudinary_npm': 0.237017310252996, 'express': 0.10386151797603196, 'nodist': 0.5499334221038615, 'lodash': 0.0, 'browserify': 1.0, ]
