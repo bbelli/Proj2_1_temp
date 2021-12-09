@@ -1,10 +1,21 @@
-2021-12-05 14:36:39.993782: [WARNING] No license found for repository 'cloudinary_npm'
-2021-12-05 14:36:39.993782: [TRACE  ] 'cloudinary_npm' repository is downloaded
-2021-12-05 14:36:44.631610: [TRACE  ] 'express' repository is downloaded
-2021-12-05 14:36:45.886614: [TRACE  ] 'nodist' repository is downloaded
-2021-12-05 14:36:53.901380: [WARNING] No dependencies found for repository 'lodash'
-2021-12-05 14:36:54.000562: [TRACE  ] 'lodash' repository is downloaded
-2021-12-05 14:37:00.270277: [TRACE  ] 'browserify' repository is downloaded
-2021-12-05 14:37:00.271268: [TRACE  ] Repository list is created, contains repositories: ['cloudinary_npm', 'express', 'nodist', 'lodash', 'browserify', ]
-2021-12-05 14:37:00.271268: [TRACE  ] Metrics are created, contains metrics: ['RAMP_UP_SCORE', 'CORRECTNESS_SCORE', 'BUS_FACTOR_SCORE', 'RESPONSIVE_MAINTAINER_SCORE', 'LICENSE_SCORE', 'DEPENDENCY_SCORE', ]
-2021-12-05 14:37:00.271268: [TRACE  ] Normalized scores for metric 'RAMP_UP_SCORE' are: ['cloudinary_npm': 0.237017310252996, 'express': 0.10386151797603196, 'nodist': 0.5499334221038615, 'lodash': 0.0, 'browserify': 1.0, ]
+2021-12-08 19:11:47.637753: [WARNING] No license found for repository 'cloudinary_npm'
+2021-12-08 19:11:47.637856: [TRACE  ] 'cloudinary_npm' repository is downloaded
+2021-12-08 19:11:55.215698: [TRACE  ] 'express' repository is downloaded
+2021-12-08 19:11:57.806080: [TRACE  ] 'nodist' repository is downloaded
+2021-12-08 19:12:15.152430: [WARNING] No dependencies found for repository 'lodash'
+2021-12-08 19:12:15.383032: [TRACE  ] 'lodash' repository is downloaded
+2021-12-08 19:12:28.086401: [TRACE  ] 'browserify' repository is downloaded
+2021-12-08 19:12:28.086687: [TRACE  ] Repository list is created, contains repositories: ['cloudinary_npm', 'express', 'nodist', 'lodash', 'browserify', ]
+2021-12-08 19:12:28.086841: [TRACE  ] Metrics are created, contains metrics: ['RAMP_UP_SCORE', 'CORRECTNESS_SCORE', 'BUS_FACTOR_SCORE', 'RESPONSIVE_MAINTAINER_SCORE', 'LICENSE_SCORE', 'DEPENDENCY_SCORE', ]
+2021-12-08 19:12:28.087637: [TRACE  ] Normalized scores for metric 'RAMP_UP_SCORE' are: ['cloudinary_npm': 0.237017310252996, 'express': 0.10386151797603196, 'nodist': 0.5499334221038615, 'lodash': 0.0, 'browserify': 1.0, ]
+2021-12-08 19:12:41.134534: [TRACE  ] Normalized scores for metric 'CORRECTNESS_SCORE' are: ['cloudinary_npm': 0.0, 'express': 1.0, 'nodist': 0.9333333333333333, 'lodash': 0.9333333333333333, 'browserify': 1.0, ]
+2021-12-08 19:12:41.134712: [TRACE  ] Normalized scores for metric 'BUS_FACTOR_SCORE' are: ['cloudinary_npm': 0.7692307692307693, 'express': 1.0, 'nodist': 0.0, 'lodash': 0.23076923076923078, 'browserify': 0.0, ]
+2021-12-08 19:12:41.135885: [TRACE  ] Normalized scores for metric 'RESPONSIVE_MAINTAINER_SCORE' are: ['cloudinary_npm': 0.6516302453421945, 'express': 0.28487419738291314, 'nodist': 0.451733383240083, 'lodash': 1.0, 'browserify': 0.0, ]
+2021-12-08 19:12:41.135945: [TRACE  ] Normalized scores for metric 'LICENSE_SCORE' are: ['cloudinary_npm': 0.0, 'express': 1.0, 'nodist': 1.0, 'lodash': 0.0, 'browserify': 1.0, ]
+2021-12-08 19:12:41.136005: [TRACE  ] Normalized scores for metric 'DEPENDENCY_SCORE' are: ['cloudinary_npm': 0.23404255319148937, 'express': 0.012765957446808512, 'nodist': 0.06382978723404256, 'lodash': 1.0, 'browserify': 0.0, ]
+2021-12-08 19:12:41.136096: [TRACE  ] Repository 'cloudinary_npm' has overall score of 0.3901442279923473
+2021-12-08 19:12:41.136140: [TRACE  ] Repository 'express' has overall score of 0.6518129148228594
+2021-12-08 19:12:41.136182: [TRACE  ] Repository 'nodist' has overall score of 0.45459264685825573
+2021-12-08 19:12:41.136217: [TRACE  ] Repository 'lodash' has overall score of 0.555897435897436
+2021-12-08 19:12:41.136246: [TRACE  ] Repository 'browserify' has overall score of 0.5
+2021-12-08 19:12:41.136279: [TRACE  ] final scores: [<score.Node object at 0x7f9de9e39d00>, <score.Node object at 0x7f9de9e399d0>, <score.Node object at 0x7f9de9e39e20>, <score.Node object at 0x7f9de9e39c70>, <score.Node object at 0x7f9de9e39cd0>, ]
